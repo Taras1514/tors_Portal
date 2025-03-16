@@ -1,4 +1,4 @@
-h1 {
+header h1 {
     color: rgb(171, 241, 255);
     text-align: center;
 }
@@ -22,13 +22,31 @@ header .heddiv1{
     font-size:1%;
 }
 
+.opspor1{
+    width: 50%;
+}
 
-
+.por1_povops{
+    display: flex;
+}
 /*rgb(24, 24, 102);*/
 
-header {
+.pov_ops2{
+    margin-left: 15%;
+}
+
+.pov_ops2 p{
+    margin: 1px;
+}
+
+.hed {
     background-image: url("imageрув3.png");
     background-size: cover;
+    font-size: 25px;
+    color: white;
+}
+
+header{
     font-size: 25px;
     color: white;
 }
